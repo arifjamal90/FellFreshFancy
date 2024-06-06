@@ -1,0 +1,40 @@
+.couture1{
+
+color: gray;
+font-size: 13px;
+font-weight: 500;
+line-height: 5px;
+}
+.OurCollection{
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 5px;
+}
+.cratRow{
+    position: relative;
+}
+.cartimages{
+    width: 220px;
+     margin: 0px 5px;
+    display: flex;
+}
+.soapcotent {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    width: 230px;
+    color: #564244;
+    font-size: 11px;
+    font-weight: 400;
+    text-decoration: underline;
+    
+}
+.wrapper11111111{
+  position: absolute;
+  max-height: 20px;
+  bottom: 7px;
+  transition: 0.3s ease-in-out;
+}
+.wrapper11111111:hover{
+    bottom: 10px;   
+}

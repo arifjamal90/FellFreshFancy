@@ -1,0 +1,16 @@
+*{
+    padding: 0;margin: 0;
+    box-sizing: border-box;
+}
+.totalprice{
+    display: flex;
+    justify-content: space-between;
+    width: 30%;
+    margin: auto;
+}
+.totalprice{
+    color: black;
+    font-size: 13px;
+    font-weight: 600;
+    padding-top: 10px;
+}

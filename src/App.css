@@ -1,0 +1,19 @@
+/* .parent{
+    display: flex;
+    justify-content: space-between;
+    color: red;
+} */
+
+/* div{
+    background-color: green;
+    text-align: center;
+    width: 90%;
+    margin: auto;
+} */
+.container-fluid{
+    background-color: rgba(141, 95, 4, 0.756);
+    
+}
+.arifff{
+    background-color: rgb(184, 181, 181);
+}
